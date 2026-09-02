@@ -17,12 +17,15 @@
   - [Podcasts](#podcasts)
   - [Analytics Platforms](#analytics-platforms)
   - [CRMs](#crms)
+  - [Property Management Platforms](#property-management-platforms)
+  - [Investment & Transaction Management](#investment--transaction-management)
   - [Educational Resources](#educational-resources)
   - [Gamification](#gamification)
   - [Visualization Tools](#visualization-tools)
   - [Foundational Geospatial & Urban Data](#foundational-geospatial--urban-data)
   - [Authoritative Research & Publications](#authoritative-research--publications)
   - [Cost Estimation & Calculators](#cost-estimation--calculators)
+  - [Development & Construction](#development--construction)
   - [AI & Virtual Assistants](#ai--virtual-assistants)
   - [Inspection & Reporting](#inspection--reporting)
   - [APIs](#apis)
@@ -112,6 +115,8 @@
 - [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis with neighborhood scores and crash-based pedestrian risk, useful for relocation and property research.
 - [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data in under 5 minutes.
 - [Altyst](https://altyst.ai) - AI underwriting for commercial real estate: turns an offering memorandum or rent roll into a full editable pro forma with IRR, DSCR, and sensitivity analysis.
+- [Cherre](https://cherre.com/) - Real estate data platform that unifies property and market information for faster investment decisions.
+- [REalyse](https://www.realyse.com/) - Property-data and analytics platform for market intelligence and valuation workflows.
 
 ### CRMs
 
@@ -122,6 +127,23 @@
 - [Wise Agent](https://wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
 - [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
 - [Lone Wolf](https://www.lwolf.com/) - A comprehensive real estate platform with CRM, transaction management, and accounting tools.
+
+### Property Management Platforms
+
+- [AppFolio](https://www.appfolio.com/) - Cloud property-management software for small and mid-sized real estate businesses.
+- [Buildium](https://www.buildium.com/) - Property-management platform for operators serving rental-property owners and community associations.
+- [Yardi](https://www.yardi.com/) - Real estate investment and property-management software for a broad range of asset classes.
+- [VTS](https://www.vts.com/) - Commercial real estate platform for leasing and portfolio-management workflows.
+- [Facilio](https://facilio.com/) - AI-driven platform for property operations and building-performance management.
+- [Breezeway](https://www.breezeway.io/) - Property-operations platform for coordinating maintenance and service work.
+- [Guesty](https://www.guesty.com/) - End-to-end property-management software for short-term-rental operators.
+- [Snappt](https://snappt.com/) - Fraud-detection platform for rental application documents.
+- [Latchel](https://latchel.com/) - Maintenance coordination and resident-support platform for property managers.
+
+### Investment & Transaction Management
+
+- [Dealpath](https://www.dealpath.com/) - Real estate investment-management platform for deal sourcing, underwriting, and collaboration.
+- [Juniper Square](https://www.junipersquare.com/) - Partnership-management software for real estate general and limited partners.
 
 ### Educational Resources
 
@@ -159,6 +181,11 @@
 
 - [AssetCalcs](https://assetcalcs.com/) - Fast, ad-free investment and tax calculators for US/UK real estate investors (DSCR, BRRRR, Cap Rate, Hard Money, and BTL).
 - [Build Quantities](https://buildquantities.com/) - Free construction quantity calculators for concrete, gravel, asphalt, blocks, and other materials with metric and imperial inputs.
+
+### Development & Construction
+
+- [Procore](https://www.procore.com/) - Cloud construction-management software for project teams and real estate developers.
+- [PlanRadar](https://www.planradar.com/) - Construction and real estate platform for project documentation, task management, and communication.
 
 ### AI & Virtual Assistants
 
