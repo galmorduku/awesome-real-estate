@@ -5,6 +5,8 @@
 
 > Organized by region, then by category. Entries that aren't tied to a specific country or market live under the "Global" region below. If you're not sure where something belongs, propose a region in your PR and it can be moved.
 
+> Many candidate resources were discovered through The Proptech Scout directory assembled by [Derek Hsiang](https://www.linkedin.com/in/derek-hsiang-4576774/). Entries in this list are independently selected and link-checked; the source dataset is not redistributed here.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
