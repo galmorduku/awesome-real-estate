@@ -49,19 +49,28 @@
   - [APIs](#apis-1)
   - [Compliance & Permit Tools](#compliance--permit-tools)
   - [Insurance](#insurance)
+  - [Mortgage & Financing](#mortgage--financing)
+  - [Title & Closing](#title--closing)
+  - [iBuying](#ibuying)
+  - [Smart Home & Building Automation](#smart-home--building-automation)
+  - [Development & Construction](#development--construction-1)
 - [Europe](#europe)
   - [Accelerators / Venture Funds](#accelerators--venture-funds-2)
   - [GitHub Projects](#github-projects-2)
   - [Events](#events-1)
+  - [Marketplaces](#marketplaces-1)
   - [Directories](#directories-1)
   - [Analytics Platforms](#analytics-platforms-2)
   - [Cost Estimation & Calculators](#cost-estimation--calculators-2)
   - [APIs](#apis-2)
   - [Insurance](#insurance-1)
 - [Asia](#asia)
+  - [Marketplaces](#marketplaces-2)
   - [Analytics Platforms](#analytics-platforms-3)
+  - [Interior Design & Renovation](#interior-design--renovation)
   - [Authoritative Research & Publications](#authoritative-research--publications-2)
 - [Oceania](#oceania)
+  - [Marketplaces](#marketplaces-3)
   - [Analytics Platforms](#analytics-platforms-4)
   - [Visualization Tools](#visualization-tools-1)
   - [Insurance](#insurance-2)
@@ -141,6 +150,9 @@
 - [Guesty](https://www.guesty.com/) - End-to-end property-management software for short-term-rental operators.
 - [Snappt](https://snappt.com/) - Fraud-detection platform for rental application documents.
 - [Latchel](https://latchel.com/) - Maintenance coordination and resident-support platform for property managers.
+- [RealPage](https://www.realpage.com/) - Software and data-analytics platform real estate operators use to manage leasing, operations, and performance across portfolios.
+- [MRI Software](https://www.mrisoftware.com/) - Property-management and investment platform serving commercial and residential real estate operators worldwide.
+- [Aareon](https://www.aareon.com/) - ERP and digital-services platform for European housing and property-management companies.
 
 ### Investment & Transaction Management
 
@@ -172,6 +184,8 @@
 - [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data) - A meta-list for foundational global spatial datasets.
 - [Awesome Urban Datasets](https://github.com/urban-toolkit/awesome-urban-datasets) - Curated public datasets for urban planning.
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - A broad compilation of geospatial tools and resources.
+- [Trimble](https://www.trimble.com/) - Positioning, modeling, and data-analytics technology used across construction, surveying, and land development.
+- [Leica Geosystems](https://leica-geosystems.com/) - Surveying and geospatial measurement technology used for construction, mapping, and land development.
 
 ### Authoritative Research & Publications
 
@@ -188,6 +202,7 @@
 
 - [Procore](https://www.procore.com/) - Cloud construction-management software for project teams and real estate developers.
 - [PlanRadar](https://www.planradar.com/) - Construction and real estate platform for project documentation, task management, and communication.
+- [Houzz](https://www.houzz.com/) - Home-remodeling and design platform connecting homeowners with professionals, products, and (via Houzz Pro) project-management tools.
 
 ### AI & Virtual Assistants
 
@@ -249,6 +264,13 @@
 - [Redfin](https://www.redfin.com/) - A technology-powered real estate brokerage offering comprehensive property listings, market insights, and professional agent services.
 - [Trulia](https://www.trulia.com/) - Provides detailed property listings along with neighborhood insights, crime maps, and school information to assist buyers and renters.
 - [Homes.com](https://www.homes.com/) - Offers a vast database of homes for sale and rent, along with tools for property valuation and neighborhood research.
+- [Compass](https://www.compass.com/) - Real estate brokerage technology platform supporting agents through the entire buying and selling workflow.
+- [Auction.com](https://www.auction.com) - Online marketplace for bank-owned and foreclosure property auctions across the U.S.
+- [HomeLight](https://www.homelight.com/) - Agent-matching and transaction platform connecting home buyers and sellers with top-performing real estate agents.
+- [Flyhomes](https://www.flyhomes.com) - Home buying and selling platform pairing agents, loan officers, and cash-offer tools into one workflow.
+- [Roofstock](https://www.roofstock.com) - Marketplace for buying and selling single-family rental investment properties, including turnkey and portfolio deals.
+- [Sundae](https://www.sundae.com) - Marketplace connecting investors with off-market homes that need repair, for sellers who don't want to renovate before selling.
+- [Apartment List](https://www.apartmentlist.com) - Rental-search platform that curates apartment listings based on renter preferences and budget.
 
 ### Directories
 
@@ -261,6 +283,12 @@
 - [Restar](https://restar.io/) - Housing market scores and 12-month price forecasts for every US state, metro, county and ZIP code, built from Zillow, Redfin, Census, BLS, FHFA and Federal Reserve data. Market pages are free with no account.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
 - [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance break-even analysis.
+- [CoStar](https://www.costar.com) - Commercial real estate research platform with data and analytics on millions of properties for market intelligence and deal-making.
+- [ARGUS Software](https://www.altusgroup.com/argus/) - Industry-standard commercial real estate valuation and cash-flow modeling software from Altus Group.
+- [Clear Capital](https://www.clearcapital.com) - Property-valuation management and data platform used across the mortgage and appraisal industry.
+- [Lightbox](https://www.lightboxre.com/) - Real estate data and workflow platform covering U.S. property records, zoning, and risk information for brokers, lenders, and investors.
+- [Bowery](https://www.boweryvaluation.com/) - Technology-driven commercial appraisal platform that speeds up valuations with data and workflow automation.
+- [mpac](https://www.mpac.ca/) - Ontario's official property-assessment authority, providing municipal property valuations and assessment data.
 
 ### Educational Resources
 
@@ -315,10 +343,51 @@
 - [Billy](https://billyforinsurance.com/) - Digital insurance agency specializing in coverage for construction contractors.
 - [Lemonade](http://www.lemonade.com) - AI-driven digital insurer offering renters and homeowners insurance.
 - [TheGuarantors](https://www.theguarantors.com/) - Provides lease insurance and rent-guarantee products for residents and operators nationwide.
+- [Hippo](http://www.hippo.com) - Homeowners insurance bundled with smart-home monitoring designed to help prevent claims before they happen.
+- [Lower](http://www.lower.com) - Mobile-first homeownership platform combining mortgage, refinancing, and instant homeowners-insurance quotes.
+- [Renegade Insurance](https://renegadeinsurance.com/) - Digital-first property and casualty insurance agency built for independent agents.
+
+### Mortgage & Financing
+
+- [Better](http://www.better.com) - Digital mortgage lender offering an online, fee-transparent home-financing process.
+- [Figure](http://www.figure.com) - Blockchain-based lending platform for home-equity lines of credit and loan origination.
+- [LoanDepot](http://www.loandepot.com) - Nationwide direct-to-consumer mortgage lender for home purchase and refinance loans.
+- [Rocket Mortgage](https://www.rocketmortgage.com/) - Online mortgage lender offering a fully digital home-loan application and approval process.
+- [NerdWallet](http://www.nerdwallet.com) - Personal-finance comparison site covering mortgages, credit, and savings products for consumers.
+- [SoFi](https://www.sofi.com/) - Digital finance platform offering home loans alongside broader lending, banking, and investing products.
+- [LendingTree](http://www.lendingtree.com) - Online loan marketplace that lets borrowers compare mortgage and refinance offers from multiple lenders.
+- [Belong](http://www.belonghome.com) - Property-management and leasing platform pairing renters with landlords through a hospitality-style service model.
+
+### Title & Closing
+
+- [Doma](http://www.doma.com) - Title insurance and escrow platform that automates residential real estate closings for lenders and agents.
+- [Qualia](http://www.qualia.com) - Title and escrow production software used by real estate and mortgage professionals to manage closings.
+- [Snapdocs](https://www.snapdocs.com/) - Digital mortgage-closing platform coordinating lenders, title companies, and notaries for e-closings.
+- [Solidifi](https://www.solidifi.ca/) - Field-services network providing property-valuation and closing services for residential mortgage lenders.
+- [Teranet](https://www.teranet.ca/) - Operator of Ontario's and Manitoba's electronic land-registration and title systems, including the GeoWarehouse property-data service.
+
+### iBuying
+
+- [Offerpad](http://www.offerpad.com) - iBuyer platform that gives homeowners a cash offer and manages the sale process end-to-end.
+- [Opendoor](http://www.opendoor.com) - Digital platform for buying and selling homes directly, without listing on the open market.
+- [Orchard](http://www.orchard.com) - iBuying and trade-in platform that lets homeowners buy their next house before selling their current one.
+
+### Smart Home & Building Automation
+
+- [SmartRent](https://smartrent.com/) - Smart-home automation platform for multifamily property managers to control locks, thermostats, and devices across units.
+- [ecobee](https://www.ecobee.com/) - Smart-thermostat maker helping homeowners reduce energy use and monitor home comfort remotely.
+- [Kastle Systems](http://kastle.com) - Access-control, video-surveillance, and visitor-management platform for commercial and multifamily buildings.
+
+### Development & Construction
+
+- [Buildertrend](https://buildertrend.com/) - Cloud-based construction project-management software for scheduling, estimating, and change orders.
+- [EquipmentShare](https://www.equipmentshare.com) - Construction equipment rental and fleet-management platform with connected telematics.
+- [Housecall Pro](http://www.housecallpro.com/) - Field-service management software for scheduling, dispatching, and invoicing home-service professionals.
+- [Lessen](https://www.lessen.com/) - Tech-enabled property-services platform for renovations, turns, and maintenance across single-family and multifamily rentals.
 
 ## Europe
 
-- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain.
+- Countries covered so far: Germany, United Kingdom, Switzerland, France, Georgia, Spain, Norway.
 
 ### Accelerators / Venture Funds
 
@@ -333,6 +402,16 @@
 ### Events
 
 - [MIPIM](https://www.mipim.com/) - Leading global real estate event held annually over 4 days in Cannes, France.
+
+### Marketplaces
+
+- [idealista](https://idealista.com) - Leading property portal in Spain, Italy, and Portugal for buying, selling, and renting homes.
+- [Zoopla](https://www.zoopla.co.uk/) - UK property portal for browsing listings, valuations, and market data across the home-buying and renting lifecycle.
+- [PurpleBricks](https://www.purplebricks.co.uk/) - UK online estate agent offering fixed-fee sales, lettings, and conveyancing services.
+- [Your Move](https://www.your-move.co.uk/) - UK estate agency network offering sales, lettings, conveyancing, and property valuations.
+- [McMakler](https://www.mcmakler.de/) - German real estate brokerage platform combining local agents with a digital transaction process.
+- [PlanetHome Group](https://www.planethome.de/) - Real estate services group operating across Germany and Austria, spanning brokerage, financing, and property management.
+- [FINN.no](https://www.finn.no/) - Norway's largest classifieds and property marketplace for buying, selling, and renting homes.
 
 ### Directories
 
@@ -364,12 +443,26 @@
 
 ## Asia
 
-- Countries covered so far: Japan, South Korea, Thailand.
+- Countries covered so far: Japan, South Korea, Thailand, India, Singapore.
+
+### Marketplaces
+
+- [99acres.com](https://www.99acres.com/) - India's leading property portal for buying, renting, and selling residential and commercial listings.
+- [CommonFloor.com](https://www.commonfloor.com/) - Indian real estate platform combining property search with apartment-community and vendor management.
+- [Housing.com](https://housing.com/) - Indian property-search platform for buying and renting homes with listings across major cities.
+- [QuikrHomes](https://www.quikr.com/) - Classifieds-based property-listings platform covering rentals and sales across Indian cities.
+- [PropertyGuru](https://www.propertyguru.com.sg/) - Property portal serving Singapore, Malaysia, Thailand, Indonesia, and Vietnam with listings and market insights.
+- [Square Yards](https://www.squareyards.com/) - Full-stack proptech platform spanning property search, transactions, mortgages, and property management across Asia and the Gulf.
 
 ### Analytics Platforms
 
 - [Japan Neighborhoods](https://japanneighborhoods.com) - Free neighborhood-level crime, safety, and property price data for 5,078 Tokyo neighborhoods. English-language government data for expat homebuyers and investors. Includes interactive crime map, safety grading (A+ to F), and REST API.
 - [GeoInfomatic — Living Zone Accessibility (Korea)](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer for South Korea. Pick any address, see 10/20/30/45-min walking or transit reachability with 8 facility types overlaid. 100-point composite score with AI summary. No real-estate listings — pure accessibility analysis for moving / due-diligence decisions. Freemium.
+
+### Interior Design & Renovation
+
+- [HomeLane](https://www.homelane.com/) - End-to-end home-interior design and renovation platform serving Indian homeowners.
+- [Livspace](https://www.livspace.com/) - Omni-channel home-interiors and renovation platform connecting designers, manufacturers, and contractors across Asia.
 
 ### Authoritative Research & Publications
 
@@ -379,6 +472,11 @@
 ## Oceania
 
 - Countries covered so far: Australia.
+
+### Marketplaces
+
+- [Realestate.com.au](http://www.realestate.com.au/) - Australia's largest property portal for buying, renting, and selling homes, operated by REA Group.
+- [Domain](https://www.domain.com.au/) - Australian property marketplace for listings, price estimates, and agent connections.
 
 ### Analytics Platforms
 
